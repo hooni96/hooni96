@@ -1,14 +1,14 @@
   <div align=center>
 	
-##### Hi there👋
+#### Hi there👋
 	
 <p> </p>
 	
-##### 🔧Tech Stack🔨
+#### 🔧Tech Stack🔨
 
 <p> </p>
 
-##### 🎈Portfolio here
+#### 🎈Portfolio here
 	
 <p> </p>
 	
